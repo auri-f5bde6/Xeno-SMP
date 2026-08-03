@@ -852,7 +852,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-soup.pw.toml"
-hash = "97eacc0ccf8da61c6d32a5a6e6737001cbf381f00bf618925cdef9c444793b9d"
+hash = "d324a4f5efcce9e302561841c5481d1eb996ddb208d9df00398d0e37d8fda5fe"
 metafile = true
 
 [[files]]
@@ -1368,6 +1368,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "a39e229f38b605878ca9c2d56814cee374d2b004eea66cc5397c28eaf603e1db"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 filename = 'healingsoup-1.20.1-5.4.jar'
 name = 'Healing Soup'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'eed1245e3c58122894fb16417ac47a004e9eace80e2cedf04ec30c1de17eec4edfba26879cdbe2faa37cbaa27ff4eeee6e3a12a33c1eda7c10da4d3188327651'
