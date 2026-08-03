@@ -261,11 +261,6 @@ hash = "697f69d8e7f1370fbee65a177673a17a96408279bc2c7a52bb7a9004e45228bb"
 metafile = true
 
 [[files]]
-file = "mods/canary.pw.toml"
-hash = "5cb379ab26387f49b67829f6ddeb7b82363577cb55c49d8f1a3e301b0e6933ac"
-metafile = true
-
-[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "c042a7edc9f3498a07a987264f3807832b65a4bbf1508af8f2d1678cda7c3863"
 metafile = true
@@ -1257,7 +1252,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "89c9e499ea44c14194f8898effc33760b12a7dcac0bbc6ea797f2839c4bdab67"
+hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
 
 [[files]]
