@@ -526,11 +526,6 @@ hash = "405470277eca3d1303e143b4d168bd7cb60279d3891e0b23fc7fc9b0c4f581c1"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-waters-realistic-flowing-rivers.pw.toml"
-hash = "5ac6712f3c25e1a74c8db023da0e91f6cd9eb752f180c5a36edcfed1b0ad6584"
-metafile = true
-
-[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "559dbe7f4f39b8c687eada665e3f5069aa652c285d61554005bfae3f8ff20454"
 metafile = true
