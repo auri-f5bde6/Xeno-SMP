@@ -1,10 +1,6 @@
 filename = 'PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar'
 name = 'PlayerRevive'
 side = 'both'
-x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '2.0.31'
 
 [download]
 hash = '26ec9d4f4ff24a3e708f5485e40149214df76734af90848429bc7cedf397230a8e7b8b11aa21f11e50ea2987c862f09186ecd1b55b7ded31c5c99d661ede686a'
@@ -16,6 +12,3 @@ url = 'https://cdn.modrinth.com/data/ABIMzABM/versions/fUdn8MeF/PlayerRevive_FOR
 mod-id = 'ABIMzABM'
 version = 'fUdn8MeF'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'OsZiaDHq'
-type = 'REQUIRED'

@@ -1,10 +1,6 @@
 filename = 'taczblueprints-1.20.1-0.1.3.jar'
 name = 'TaCZ Blueprints'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.3'
 
 [download]
 hash = 'd3001dffd94700b0b9b774e15c15e8f4d48713c2c6d8351034d20bf07f9562e13e1c01306f6d0bf830f4419d2daf5917ea357afadda501b846195a22a7117c42'
@@ -16,6 +12,3 @@ url = 'https://cdn.modrinth.com/data/OLmBLBVj/versions/EXBvXtvo/taczblueprints-1
 mod-id = 'OLmBLBVj'
 version = 'EXBvXtvo'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'SzzJttH8'
-type = 'REQUIRED'

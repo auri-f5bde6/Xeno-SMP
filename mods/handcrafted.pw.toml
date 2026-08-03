@@ -1,10 +1,6 @@
 filename = 'handcrafted-forge-1.20.1-3.0.6.jar'
 name = 'Handcrafted'
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.0.6'
 
 [download]
 hash = 'd3c2eb6fad0c274d4ce9e121749252bcbc19a1b0ff5b619255a08f22e3aade51d3f3fd454712de5b1cb8242e78c2f320ab99d2c94f96f372b4089dbc66a8d78e'
@@ -16,6 +12,3 @@ url = 'https://cdn.modrinth.com/data/pJmCFF0p/versions/N7wZwOFy/handcrafted-forg
 mod-id = 'pJmCFF0p'
 version = 'N7wZwOFy'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'G1hIVOrD'
-type = 'REQUIRED'

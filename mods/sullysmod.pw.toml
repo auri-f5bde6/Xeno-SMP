@@ -1,10 +1,6 @@
 filename = 'sullysmod-3.3.1-beta-all.jar'
 name = "Sully's Mod"
 side = 'both'
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.3.1-beta'
 
 [download]
 hash = '3845aeac0a3da0c54350022d9cda40915a42056d1d30acf23f33219f58c3d2baa823a68af17800dcbdeccaf118839e824ff515905439401fb69453345e5d63d9'
@@ -16,7 +12,3 @@ url = 'https://cdn.modrinth.com/data/vOm0vWW8/versions/4KbZdaai/sullysmod-3.3.1-
 mod-id = 'vOm0vWW8'
 version = '4KbZdaai'
 
-[[x-prismlauncher-dependencies]]
-addonId = 'VsM5EDoI'
-type = 'REQUIRED'
-version = 'LkOcOC7A'

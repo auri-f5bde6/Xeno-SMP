@@ -1,11 +1,6 @@
 filename = 'ywzj_vehicle-1.20.1-0.5.8.jar'
 name = 'Limitless Vehicle'
 side = 'both'
-x-prismlauncher-dependencies = []
-x-prismlauncher-loaders = [ 'forge' ]
-x-prismlauncher-mc-versions = [ '1.20.1' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.5.8'
 
 [download]
 hash = '002276d94d6387abf60aecabd828af495fcf7b312ca5b05611ce17b2a337fb8b2b8819a4ebbd36081ef36c2e6ddbf04aaa85f4e1fd069544b4d13c1fcdc2d047'
