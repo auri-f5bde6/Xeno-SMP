@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/framework.pw.toml"
-hash = "081ec0f38dfdf89c86687daf416d9082b998d821d3ee6122673e608760c533ea"
+hash = "fb28e2dfc0903d36193ee36aac99b7fed3e99747bea2e5ffa494ff0a73d611c2"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/goblin-traders.pw.toml"
-hash = "f2057021e7ae7db29f6f2e14ab0cd845991febeea2d7fa521bbbc12c043870b4"
+hash = "573f654298fca622a2edb590b4caa51b9ade1bb071424bc9d38c7e6ab8f58efb"
 metafile = true
 
 [[files]]
@@ -512,7 +512,7 @@ metafile = true
 
 [[files]]
 file = "mods/ores-above-diamonds.pw.toml"
-hash = "405ff55ed832a32d5c054a81fcb2689ffbf44070b8bc7a2721db08166a2763b3"
+hash = "c8916e000849eb8e26824c60a505150b05bf5101b8beb2cb53ded0f246a77351"
 metafile = true
 
 [[files]]
@@ -632,7 +632,7 @@ metafile = true
 
 [[files]]
 file = "mods/spelunkers-charm-ii.pw.toml"
-hash = "7c175cc06810ff04a1c2c30a6cc68ef0ede320017fbd9c415f50cafbfd26e372"
+hash = "da1318e1310fda40e403de8d8283d745bbb1ccca32fd1770d46594da8e7bc017"
 metafile = true
 
 [[files]]
@@ -697,7 +697,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-comfort-updated.pw.toml"
-hash = "18be5ec90954b630662199da230401b22b6ce9123e43290fabc20384d2242478"
+hash = "52a6e36cc63784a33071f6eaf35e2906874363d4a93990ef2d3af75adffc37b0"
 metafile = true
 
 [[files]]

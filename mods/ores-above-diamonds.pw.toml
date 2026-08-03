@@ -1,12 +1,11 @@
 filename = 'oresabovediamonds-10.0.1b.jar'
 name = 'Ores Above Diamonds'
-side = ''
+side = "both"
 
 [download]
 hash = 'f2023e66eebe384a19ff4176283e2b8dc0796223'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 4682592
