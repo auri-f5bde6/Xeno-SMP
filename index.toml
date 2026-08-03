@@ -381,6 +381,11 @@ hash = "21765dfb1d9f0fd97ebe61be79db99c384b9f7c9a42af85d33ac1e6ea5e63730"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "dcafe7bce5ab829294f45397006b988718d188a19669ca74e3c31435c49bcedf"
 metafile = true
