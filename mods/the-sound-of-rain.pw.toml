@@ -1,0 +1,13 @@
+filename = 'soundofrain-0.6.0.jar'
+name = 'The Sound of Rain'
+side = 'client'
+
+[download]
+hash = 'e56f0355ed267bf2777932fefefba9f63a83238260c294beaaaf7d49d9789dbd8167917d8491e574cf33e210d3ec4ebda66f622d210a485684b538d8feaf3410'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8GRDQ9XB/versions/caWxRbWX/soundofrain-0.6.0.jar'
+
+[update.modrinth]
+mod-id = '8GRDQ9XB'
+version = 'caWxRbWX'

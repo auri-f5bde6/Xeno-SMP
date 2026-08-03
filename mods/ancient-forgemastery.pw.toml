@@ -1,0 +1,13 @@
+filename = 'ancient_forgemastery-1.4.1-forge-1.20.1.jar'
+name = 'Ancient Forgemastery'
+side = 'both'
+
+[download]
+hash = '7673da4ad1585b7e21ee615b651181ad4907e7689fcadfb5bd5c7ea04e649c2152dceb31714db7ff177f0e5456040f77bf68b17002df98e44fc8d718b7a6d58b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rciLBWn7/versions/IfHd8UEs/ancient_forgemastery-1.4.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'rciLBWn7'
+version = 'IfHd8UEs'

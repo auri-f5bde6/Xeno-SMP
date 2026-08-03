@@ -1,0 +1,14 @@
+filename = 'MyNethersDelight-1.20.1-1.10.4.jar'
+name = "My Nether's Delight"
+side = 'both'
+
+[download]
+hash = '560ef8449525fd4ed6500f19cc99cca8e281578a2b01fd4dc715cbd37c4b669e569ffe1935c5e13315f8c2330bfb84dd61b8b72dc1b836e1e6cc67d3f0b230e8'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O53VhQoZ/versions/DKcTbOE3/MyNethersDelight-1.20.1-1.10.4.jar'
+
+[update.modrinth]
+mod-id = 'O53VhQoZ'
+version = 'DKcTbOE3'
+

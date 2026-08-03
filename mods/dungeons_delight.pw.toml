@@ -1,0 +1,13 @@
+filename = 'forge-dungeonsdelight-1.20.1-1.3.0.jar'
+name = "Dungeon's Delight"
+side = 'both'
+
+[download]
+hash = '54dca8ce7a28058082ca068617b8f7df3e6bdf50f0839d6e5a58d54d71c55994db96fc790210662762790d5ffa6a5fed1aa5692953da8318e062bc023aff0c69'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qPfNr476/versions/Ick1jUCc/forge-dungeonsdelight-1.20.1-1.3.0.jar'
+
+[update.modrinth]
+mod-id = 'qPfNr476'
+version = 'Ick1jUCc'

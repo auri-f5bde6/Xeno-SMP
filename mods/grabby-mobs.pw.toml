@@ -1,0 +1,14 @@
+filename = 'grabbymobs-1.20.1-1.6.jar'
+name = 'Grabby Mobs'
+side = 'server'
+
+[download]
+hash = 'dca95e67d1f7197c8e89314a47d9af65182b9696841eb10b0cae2eeb7095e65284bcc22625451f294fd82a5d0a62bd84fb9d2aaa61a759aea542f3500183ab80'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O6Sh7btX/versions/jeoBVRvR/grabbymobs-1.20.1-1.6.jar'
+
+[update.modrinth]
+mod-id = 'O6Sh7btX'
+version = 'jeoBVRvR'
+

@@ -1,0 +1,13 @@
+filename = 'harderbranchmining-1.20-46.0.14.jar'
+name = 'Harder Branch Mining'
+side = 'both'
+
+[download]
+hash = 'ccdbbee80c2b0900dea743b22104cd5cfaf9fde51b188515bf72162428ac69731a9e0e53090dec1670a57e5b82ec4c68329dc56a6a9e9a021c8e8df5402eb355'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/eIIxtk5R/versions/qiaHpycn/harderbranchmining-1.20-46.0.14.jar'
+
+[update.modrinth]
+mod-id = 'eIIxtk5R'
+version = 'qiaHpycn'

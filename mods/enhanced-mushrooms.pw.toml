@@ -1,0 +1,14 @@
+filename = 'enhanced_mushrooms-5.0.0.jar'
+name = 'Enhanced Mushrooms'
+side = 'both'
+
+[download]
+hash = '0af54cacc759291e84f495b574ab88359b4360e3d7ccd9aa5061dc993c33cad72843bf8a4382779b862c1bcb15d12ba796490106ca60c7166eed6061a837e12a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4Zf7J76Q/versions/DSNxiUU9/enhanced_mushrooms-5.0.0.jar'
+
+[update.modrinth]
+mod-id = '4Zf7J76Q'
+version = 'DSNxiUU9'
+

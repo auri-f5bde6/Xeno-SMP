@@ -1,0 +1,13 @@
+filename = 'parcool-sprint-fix-1.0.0.jar'
+name = 'ParCool Sprint Fix'
+side = 'both'
+
+[download]
+hash = 'b383640c413fbf1f27d83dd1851527107ecc4c1044cd55a501d291f202eabd4190e7a3c393f335a53701628dd5b2929e425bede21ed80f54f27c172a16d5bb10'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lSmrLu5T/versions/FspGdaO8/parcool-sprint-fix-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'lSmrLu5T'
+version = 'FspGdaO8'

@@ -1,0 +1,14 @@
+filename = 'Compat_Galosphere-Spelunkery.jar'
+name = 'Galosphere - Spelunkery Compat'
+side = 'both'
+
+[download]
+hash = '59ab0abc3970b579ac4e838bd26710b3df371859230225af3afb3fd697ddb540ca0e3ffb4012a4bc4fdbb0a5f7d9c4ad67a513ec2e6ea93ea992981a25af5b81'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ibiMtU5c/versions/c8wPlbUP/Compat_Galosphere-Spelunkery.jar'
+
+[update.modrinth]
+mod-id = 'ibiMtU5c'
+version = 'c8wPlbUP'
+

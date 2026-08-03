@@ -1,0 +1,13 @@
+filename = 'alexscavesbettercombat.jar'
+name = "Alex's Caves Better Combat"
+side = 'server'
+
+[download]
+hash = '85c2135733959393a7d91f1ac550b7a373237d5c5ce7ec2615cff5dc63f27892a14ccd0854d2725454e8ee4b612ee15210bfc86b6585a8301c04b1972da7105a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UenO0Oqy/versions/25y1lqsO/alexscavesbettercombat.jar'
+
+[update.modrinth]
+mod-id = 'UenO0Oqy'
+version = '25y1lqsO'
