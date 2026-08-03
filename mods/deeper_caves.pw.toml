@@ -1,6 +1,6 @@
 filename = 'DeeperCaves-1.20.1-1.2.7.jar'
 name = 'Deeper Caves'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '2bba905ae1760c92b76e3d214af437da15598a5a13ea1ce5034df0398076d0e6af1c7400cb67338f5a10e4c0bb4fa4443a160a20aa5496f9faffe45f8d8e5ee4'
