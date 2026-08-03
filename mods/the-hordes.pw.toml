@@ -1,0 +1,30 @@
+filename = 'The-Hordes-1.20.1-1.6.3g-all.jar'
+name = 'The Hordes'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1-1.6.3g'
+
+[download]
+hash = '2dafb5a50deb0c0282443c4adf84901c4956f04e5f6f8a608c6cc3ca62555922a79782c28474294cde22bb5d6eabb47f2ddbe365f4c666f9fc66d8f804cee2bf'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O3HDffUR/versions/I9yazwYL/The-Hordes-1.20.1-1.6.3g-all.jar'
+
+[update.modrinth]
+mod-id = 'O3HDffUR'
+version = 'I9yazwYL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'iAlZk5aS'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'G6VHtQr4'
+type = 'REQUIRED'
+version = 'PKJi0BrP'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'u6dRKJwZ'
+type = 'OPTIONAL'

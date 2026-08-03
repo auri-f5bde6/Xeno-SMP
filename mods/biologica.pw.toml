@@ -1,0 +1,13 @@
+name = "Biologica"
+filename = "biologica-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eGByYL73/versions/eMHKKvMe/biologica-1.1.1-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "c62f8b6c71df7357e6b39f313d324ab182e52095853a31ebde89a3941816aeac2a0c0f6336812a878d42871fbbe47fb6ed9b8be36870082a07e1916e6a17497a"
+
+[update]
+[update.modrinth]
+mod-id = "eGByYL73"
+version = "eMHKKvMe"

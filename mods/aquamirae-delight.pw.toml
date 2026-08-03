@@ -1,0 +1,13 @@
+name = "Aquamirae Delight"
+filename = "aquamirae_delight-2.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cCXV545X/versions/RUWIJ4MD/aquamirae_delight-2.2-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "037128737757f03a4e2797c465806ea5aebf467fdb24096bbe5ec0e346a58e2bce092a5755450381f75218247f3c84a9ea799d067cb4932c5a47764da819473a"
+
+[update]
+[update.modrinth]
+mod-id = "cCXV545X"
+version = "RUWIJ4MD"

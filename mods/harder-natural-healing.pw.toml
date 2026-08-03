@@ -1,0 +1,18 @@
+filename = 'hardernaturalhealing-1.20-46.1.14.jar'
+name = 'Harder Natural Healing'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '46.1.14'
+
+[download]
+hash = '9e8ca50c2dfeef163bae55f44f7d2b4fef40769d83e195c8bb0eb6bdbff60776e290eef6d1354f6ca4d6f91b1443635de55c3eb8711609abca043f3424b0e516'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PJbBnV4i/versions/HOzRtkbs/hardernaturalhealing-1.20-46.1.14.jar'
+
+[update.modrinth]
+mod-id = 'PJbBnV4i'
+version = 'HOzRtkbs'

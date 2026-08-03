@@ -1,0 +1,18 @@
+filename = 'DeeperCaves-1.20.1-1.2.7.jar'
+name = 'Deeper Caves'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.2.7'
+
+[download]
+hash = '2bba905ae1760c92b76e3d214af437da15598a5a13ea1ce5034df0398076d0e6af1c7400cb67338f5a10e4c0bb4fa4443a160a20aa5496f9faffe45f8d8e5ee4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tAzghcaA/versions/Vg7VLTDX/DeeperCaves-1.20.1-1.2.7.jar'
+
+[update.modrinth]
+mod-id = 'tAzghcaA'
+version = 'Vg7VLTDX'

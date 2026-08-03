@@ -1,0 +1,21 @@
+filename = 'chat_heads-0.15.3-forge-1.20.jar'
+name = 'Chat Heads'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.15.3'
+
+[download]
+hash = '862ac3fb3db5701cf3a71974941fce66ce4645cf003484f9eeee75d9dea28a032b6fd479a17050431108c47cd2626836bf25897d32897ac2c3b51b310fb306e9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Wb5oqrBJ/versions/qd6yqc8K/chat_heads-0.15.3-forge-1.20.jar'
+
+[update.modrinth]
+mod-id = 'Wb5oqrBJ'
+version = 'qd6yqc8K'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'

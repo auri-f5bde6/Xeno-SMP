@@ -1,0 +1,18 @@
+filename = 'wonderoussea-1.0.4-forge-1.20.1.jar'
+name = 'Wonderous Sea - Endless Ocean'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4'
+
+[download]
+hash = '814857cd147ca14db401218015b8d77462130346f93f65929dee989d64b069f541d4e7e39328d14eba73ca7ab30e465b136f505763693622cd96f26a42575f70'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ckvVtBP6/versions/vJC77vM8/wonderoussea-1.0.4-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ckvVtBP6'
+version = 'vJC77vM8'

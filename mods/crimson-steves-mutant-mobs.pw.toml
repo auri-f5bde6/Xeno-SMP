@@ -1,0 +1,21 @@
+filename = 'crimsonstevemutantmobs-1.1.2-forge-1.20.1.jar'
+name = "Crimson Steve's Mutant Mobs"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.1.2'
+
+[download]
+hash = 'a3f282e3dbcae4072e4730c8a5042ee1e597ec99338044e5ce175a1875ebaf17f888fef021a93ee5c551d4e02fc71b34db8d96a9461250e5beef3da35e810542'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gwvWgK9g/versions/ORIG3Hu6/crimsonstevemutantmobs-1.1.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'gwvWgK9g'
+version = 'ORIG3Hu6'
+
+[[x-prismlauncher-dependencies]]
+addonId = 't87XZEqv'
+type = 'OPTIONAL'
