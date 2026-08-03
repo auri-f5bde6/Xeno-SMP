@@ -1,0 +1,13 @@
+filename = 'season_innovation-1.0.0.jar'
+name = 'season innovation'
+side = 'both'
+
+[download]
+hash = 'c4e9dfabcf1509346002283d68e7bd5dce11b6dddaab5b30c94519abdbcd66b2c82e5c1917f1d156e0adf3e818de630fbde2f85f6ba54c4d5d5296ffda4bac0b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jqwPAuY1/versions/FUwW4MTZ/season_innovation-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'jqwPAuY1'
+version = 'FUwW4MTZ'

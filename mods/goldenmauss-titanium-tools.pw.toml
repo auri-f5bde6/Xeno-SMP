@@ -1,0 +1,13 @@
+filename = 'goldenmaus_titanium_tools-1.0.0-forge-1.20.1.jar'
+name = "GoldenMaus's Titanium Tools"
+side = 'both'
+
+[download]
+hash = '545bb94586272a3c510f16dd494e28976c9539fe144a031132f7eb62c5c0173ee3a1109490d059830c4016717ddec64a2d027624e8663853e6ae04c32737f77f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hg3GpJet/versions/EBcwEBcQ/goldenmaus_titanium_tools-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'hg3GpJet'
+version = 'EBcwEBcQ'

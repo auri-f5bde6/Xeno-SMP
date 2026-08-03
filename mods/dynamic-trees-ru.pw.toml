@@ -1,0 +1,14 @@
+filename = 'DynamicTreesRU-1.20.1-1.0.1.jar'
+name = 'Dynamic Trees - Regions Unexplored'
+side = 'both'
+
+[download]
+hash = '6f9759bc0f6308d864ee14daa52592639dc616914b5095cf09ac8fd7a123a39188e3f4cba73e12e57c401b9bfa172448a5b9312e1a808e39d82592d864affe02'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IOcN8dvy/versions/VCrxzWot/DynamicTreesRU-1.20.1-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'IOcN8dvy'
+version = 'VCrxzWot'
+

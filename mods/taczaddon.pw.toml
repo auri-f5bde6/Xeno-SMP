@@ -1,0 +1,13 @@
+filename = 'taczaddon-1.20.1-1.1.8-hotfix2-for-new-soph.jar'
+name = 'TaCZ addon'
+side = 'both'
+
+[download]
+hash = '61082f10fe6b4f0fb7aea2758bda8d4900a814b93663cfcc48cb7ca2c26ca526bb2eca76c72c5c4533ea1462882809a5f405da77c3f74dacf1f5e19bfe065908'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3Ihyt5WL/versions/H8M3ar88/taczaddon-1.20.1-1.1.8-hotfix2-for-new-soph.jar'
+
+[update.modrinth]
+mod-id = '3Ihyt5WL'
+version = 'H8M3ar88'

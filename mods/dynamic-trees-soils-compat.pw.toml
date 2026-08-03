@@ -1,0 +1,13 @@
+filename = 'DynamicTrees-Soils-Compat-1.20.1-1.1.0.jar'
+name = 'Dynamic Trees - Soils Compat - Immersive Weathering/Grounded'
+side = 'both'
+
+[download]
+hash = 'f519c14709c8caf9e057af9ddc148bcd94e0d8f42bb4356370cd3ad18868ca9353619b316947d5b9cbf3df3652ec594b5afff1b9bfb591e58a1801a412382b5c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oZn5qAQl/versions/JRpO14Pr/DynamicTrees-Soils-Compat-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'oZn5qAQl'
+version = 'JRpO14Pr'

@@ -1,0 +1,14 @@
+filename = 'justplayerheads-1.20.1-4.4.jar'
+name = 'Just Player Heads'
+side = 'server'
+
+[download]
+hash = '98c404faa126679da8f021676619645e20ce83bae425d4fa725f95544d0ef3bfba1a03bb663007358ca482952af7d95016c6b5546ba014fc3fbb5ec9ca6599fb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YdVBZMNR/versions/SKH7IvVg/justplayerheads-1.20.1-4.4.jar'
+
+[update.modrinth]
+mod-id = 'YdVBZMNR'
+version = 'SKH7IvVg'
+

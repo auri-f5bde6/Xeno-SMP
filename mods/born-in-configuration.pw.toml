@@ -1,0 +1,14 @@
+filename = 'borninconfiguration-3.2.1[FORGE].jar'
+name = 'Born In Configuration'
+side = 'server'
+
+[download]
+hash = 'cc0ab8de9160e376f3678582a125157b7a7b11692f025833511d1fb16fc7df651cc8d72b10f6f3cb5f800b6837898f09d40e5f2a9d792b664c8620a1798e6146'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8rGW0cNk/versions/lEhfZRtM/borninconfiguration-3.2.1%5BFORGE%5D.jar'
+
+[update.modrinth]
+mod-id = '8rGW0cNk'
+version = 'lEhfZRtM'
+

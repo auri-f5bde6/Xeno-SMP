@@ -1,0 +1,14 @@
+filename = 'RUExpansion-1.0.1+1.20.1.jar'
+name = 'Regions Unexplored: Expansion'
+side = 'server'
+
+[download]
+hash = '2287ec90ebdfd6288396ab5f61099f35fde08788959876100ccd25cd671bd6e96cb5a5031336f181366fa375d94c58bf428ab09c93a31c18869233e8c7d682c9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UUT3UbDH/versions/oRkSj0n9/RUExpansion-1.0.1%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'UUT3UbDH'
+version = 'oRkSj0n9'
+

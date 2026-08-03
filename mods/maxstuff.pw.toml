@@ -1,0 +1,13 @@
+filename = 'maxstuff-1.8.2_ammofix.jar'
+name = '[Tacz]Maxstuff'
+side = 'both'
+
+[download]
+hash = '01fbd1dcd4937c37ee4d54b62ab8ac31c91b479d5e3097319149d966cce22ad0c83e1c1c61e5246a9e27b701d0d3d4a38ed6da0e98db61828d08feec0343dc8a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zUHF7oUB/versions/RarH3Y3P/maxstuff-1.8.2_ammofix.jar'
+
+[update.modrinth]
+mod-id = 'zUHF7oUB'
+version = 'RarH3Y3P'

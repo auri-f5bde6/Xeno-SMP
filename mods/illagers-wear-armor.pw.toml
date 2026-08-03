@@ -1,0 +1,13 @@
+filename = 'illagersweararmor-1.20.1-1.5.0.jar'
+name = 'Illagers Wear Armor'
+side = 'both'
+
+[download]
+hash = '1322b482c72d7a4480d5fb4e816ff5add4ce487599dc1604bba76bf537babcb9b7169925dd250ca02c0baf582b286b45f26e0b3d2851abbbdd4e3015c3568c2e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xXNP32XJ/versions/bSzC0MGk/illagersweararmor-1.20.1-1.5.0.jar'
+
+[update.modrinth]
+mod-id = 'xXNP32XJ'
+version = 'bSzC0MGk'

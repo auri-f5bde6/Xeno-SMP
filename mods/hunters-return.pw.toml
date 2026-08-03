@@ -1,0 +1,14 @@
+filename = 'hunters_return-1.20.1-11.8.0.jar'
+name = "Hunter's Return"
+side = 'both'
+
+[download]
+hash = '3015c8a8ca1aaca508961d70619437650a751d7ca388c9e14fe9d1fdb419453dd383878562fad20ea7d1b3930be584de330fd636d114e9983da9b1fdc7e7bd2b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yt6gmdxW/versions/8LEyQ0Wm/hunters_return-1.20.1-11.8.0.jar'
+
+[update.modrinth]
+mod-id = 'Yt6gmdxW'
+version = '8LEyQ0Wm'
+

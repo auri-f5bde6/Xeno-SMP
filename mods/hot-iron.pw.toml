@@ -1,0 +1,13 @@
+filename = 'hot_iron-1.0.0-forge-1.20.1.jar'
+name = 'Hot Iron'
+side = 'both'
+
+[download]
+hash = 'f83d95cab636f22d3d293c89dee5995404441fd28079f7453cf7f221ead19688ea313b83a4de638511908a538a50688aad00427883136322b4f7f11b8de12191'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/U1prtRMD/versions/i4D3mr6o/hot_iron-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'U1prtRMD'
+version = 'i4D3mr6o'

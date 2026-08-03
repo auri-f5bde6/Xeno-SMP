@@ -1,0 +1,13 @@
+name = "Caves Delight"
+filename = "caves_delight-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FM6bfCfc/versions/LQLqxrtE/caves_delight-1.1.0.jar"
+hash-format = "sha512"
+hash = "9af55aa63698419f4f2a3c112b3b60aca7a9dff4b65ce248d3bdf9df4275f4c787015464a89fdf419aa1da7358d099eea1d09392dbe20d42ffb0809c2b27a047"
+
+[update]
+[update.modrinth]
+mod-id = "FM6bfCfc"
+version = "LQLqxrtE"

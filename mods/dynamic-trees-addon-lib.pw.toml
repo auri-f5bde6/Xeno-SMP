@@ -1,0 +1,14 @@
+filename = 'DynamicTreesAddonLib-1.20.1-0.1.0-BETA5.jar'
+name = 'Dynamic Trees Addon Lib'
+side = 'both'
+
+[download]
+hash = '0a7597424e10dbebae5ee8153e6254fd542fef863b0aa10a6edd4cbf534901c56202808a7400c089fad42f8971caeddda26c8cc849a0ea9493a37154061a9887'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ju42L8G7/versions/6gSUATI1/DynamicTreesAddonLib-1.20.1-0.1.0-BETA5.jar'
+
+[update.modrinth]
+mod-id = 'ju42L8G7'
+version = '6gSUATI1'
+

@@ -1,0 +1,13 @@
+filename = 'sons-of-sins-1.20.1-2.1.11.jar'
+name = 'Sons of Sins'
+side = 'both'
+
+[download]
+hash = 'fc09ce499b1f7888a5320b9c5a68f05c257c37dd1f0aa039a52738f9379e3a0916a549165e41dcf8fc4770e9baad75d3c2bd2c769d774ad5118f36d2846a7963'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/l7YxzukZ/versions/RaKzYFbP/sons-of-sins-1.20.1-2.1.11.jar'
+
+[update.modrinth]
+mod-id = 'l7YxzukZ'
+version = 'RaKzYFbP'
