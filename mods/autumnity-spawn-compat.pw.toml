@@ -1,0 +1,14 @@
+filename = 'Compat_Autumnity-Spawn.jar'
+name = 'Autumnity - Spawn Compat'
+side = 'both'
+
+[download]
+hash = 'e0cc5c9fcdce31bba26b776f646ec3c873b61a43aad66656768e695bf7e826c398b0d1c3100849b5631221241b0415e3172c73bde1b07c377bd62102063514ba'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hNmxw4ru/versions/m0keJ4xO/Compat_Autumnity-Spawn.jar'
+
+[update.modrinth]
+mod-id = 'hNmxw4ru'
+version = 'm0keJ4xO'
+

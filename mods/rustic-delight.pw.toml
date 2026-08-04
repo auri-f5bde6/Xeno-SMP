@@ -1,0 +1,14 @@
+filename = 'rusticdelight-forge-1.20.1-1.6.1.jar'
+name = 'Rustic Delight'
+side = 'both'
+
+[download]
+hash = 'd96d5d159006c474e7fffef2f28c4e78800e463968744cf5e3ae41ded2ad910c86be9b2e630b3d1c60c1b3759b25aecc94d390492a4b3937c4ef4f5764c702f3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/foa4fGIH/versions/Q904t3Qn/rusticdelight-forge-1.20.1-1.6.1.jar'
+
+[update.modrinth]
+mod-id = 'foa4fGIH'
+version = 'Q904t3Qn'
+

@@ -1,0 +1,13 @@
+filename = 'vminus-3.3.2.jar'
+name = 'VMinus'
+side = 'both'
+
+[download]
+hash = '8a3636d8e894b2a77f99827cc03560dbccbd1f798ee2af1b925efa581372e9543a4aae4f45a0eabc610f75782e5843907acf649f4084289bb5d406d3fa315afa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fWANN5B2/versions/uuJMYLb3/vminus-3.3.2.jar'
+
+[update.modrinth]
+mod-id = 'fWANN5B2'
+version = 'uuJMYLb3'

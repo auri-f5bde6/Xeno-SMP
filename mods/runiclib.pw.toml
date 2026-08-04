@@ -1,0 +1,13 @@
+filename = 'forge-runiclib-1.20.1-4.3.11.jar'
+name = 'RunicLib'
+side = 'both'
+
+[download]
+hash = 'f2c11564378688deb1ce278e85ed8f79ed0acc3b08fb785546f6d7dd8e168b15a0ff5f39f2a81d83a2ececf289d806ef5769b08f96a93ed5f6487e6e5d907941'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/mk0Htq87/versions/hWeplPMq/forge-runiclib-1.20.1-4.3.11.jar'
+
+[update.modrinth]
+mod-id = 'mk0Htq87'
+version = 'hWeplPMq'

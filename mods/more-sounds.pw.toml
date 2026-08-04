@@ -1,0 +1,13 @@
+filename = 'more_sounds-1.20.1-0.3.1-beta-forge.jar'
+name = 'More Sounds'
+side = 'both'
+
+[download]
+hash = '3d3bb5e0dc0576d6481feb910bb8c5a4b3561b794c6f3482dbed09b46b1e8a27dc434da24b567182d8a4bab0c989c3359a4f4d31b677642bf7ef99301d3987d3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8jvcOd6S/versions/e8mikveY/more_sounds-1.20.1-0.3.1-beta-forge.jar'
+
+[update.modrinth]
+mod-id = '8jvcOd6S'
+version = 'e8mikveY'

@@ -1,0 +1,14 @@
+filename = 'Drip Sounds-0.5.2+1.20.4-Forge.jar'
+name = 'Drip Sounds'
+side = 'client'
+
+[download]
+hash = '7a742b8c91615d9c6a1f6002264c860436dcc5eaf972986f2b3841e9700978d613214e7a2a941fc04ea516bc75b8cd6fb94ece36749fa8bdfc6c7d3f60c1a18f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/T8MMXTpr/versions/AuwiyteP/Drip Sounds-0.5.2%2B1.20.4-Forge.jar'
+
+[update.modrinth]
+mod-id = 'T8MMXTpr'
+version = 'AuwiyteP'
+

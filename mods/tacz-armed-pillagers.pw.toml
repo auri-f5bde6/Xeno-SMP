@@ -1,0 +1,13 @@
+filename = 'pillagerguns-forge-1.20.1-1.1.0.jar'
+name = 'Armed Pillagers'
+side = 'both'
+
+[download]
+hash = 'd1cfd14d58e5af28418fb2322d9a6f21eb61f5d706fa01fd8e0ffadaacd08cea0d38a925be925cb76a067f0d422d083b1a6b7f80a61d89b5512230c278a50ad6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/RxyCXFPz/versions/bacFdpmr/pillagerguns-forge-1.20.1-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'RxyCXFPz'
+version = 'bacFdpmr'

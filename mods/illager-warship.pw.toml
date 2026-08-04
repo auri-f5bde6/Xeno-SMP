@@ -1,0 +1,13 @@
+filename = 'illagerwarship-1.0.1-forge-1.20.1.jar'
+name = 'Illager Warship'
+side = 'both'
+
+[download]
+hash = 'e57f87e5b65be9cc50db48863be438c275ad6a539d8a50f4c73d49df85f7aee00f2dc2c1da8c18861098f0446b8f5299c5a68226e91b8dce76eebf019a4833fa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/tUpIHo95/versions/st9shaM3/illagerwarship-1.0.1-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'tUpIHo95'
+version = 'st9shaM3'

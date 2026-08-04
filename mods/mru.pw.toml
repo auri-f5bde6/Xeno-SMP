@@ -1,0 +1,13 @@
+filename = 'mru-1.0.31+1.20.1-forge.jar'
+name = 'MRU'
+side = 'both'
+
+[download]
+hash = '7a82ef00bd510b974f597863a1bba13051d30394c795f13d08862a54f324338659aed7acf03c47c8513b771b08bdb1c4aedb6a39d9c267c5c6d65a40a0f37aa2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SNVQ2c0g/versions/dVt6idbF/mru-1.0.31%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'SNVQ2c0g'
+version = 'dVt6idbF'

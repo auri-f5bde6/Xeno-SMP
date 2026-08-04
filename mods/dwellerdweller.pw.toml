@@ -1,0 +1,13 @@
+filename = 'dweller_dweller-3.13.1.jar'
+name = 'Dweller dweller'
+side = 'both'
+
+[download]
+hash = 'dcf7a258b5d4aa81bdea09d3f853e54cdbb5d5d06faa4e08cc6477505412224edff8dd01eea5b393aa43d26299ff2ee314678b73bc56589f8662df1a33b0fc3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/3h8ny5bp/versions/QMulcpIu/dweller_dweller-3.13.1.jar'
+
+[update.modrinth]
+mod-id = '3h8ny5bp'
+version = 'QMulcpIu'

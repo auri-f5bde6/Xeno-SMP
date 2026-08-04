@@ -1,0 +1,13 @@
+filename = 'illager_trader-3.0.0-forge-1.20.1.jar'
+name = 'Illager Trader'
+side = 'both'
+
+[download]
+hash = 'b98c6243fc0c367a7f9235c269871569f754aadc88274c9b950118d1e689368d3d8b7c2831e736df210efbbed52b72d009a47869f8e8d587fed062f2f5b95516'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/r5nw0pax/versions/jNOLrB5l/illager_trader-3.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'r5nw0pax'
+version = 'jNOLrB5l'

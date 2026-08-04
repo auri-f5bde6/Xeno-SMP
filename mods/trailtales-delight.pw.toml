@@ -1,0 +1,14 @@
+filename = '[1.3support]trailandtales_delight-2.3-all.jar'
+name = 'Trail&Tales Delight'
+side = 'both'
+
+[download]
+hash = 'd4a35308c6f629a5b0bc7729cb8d118c48a5c078534a95bb8a88f6165c7697b47f83fe367067f7c014d231a6c545452248fa29c830002518f15a76abfbeed434'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Koee7vhY/versions/o1GWogsY/%5B1.3support%5Dtrailandtales_delight-2.3-all.jar'
+
+[update.modrinth]
+mod-id = 'Koee7vhY'
+version = 'o1GWogsY'
+

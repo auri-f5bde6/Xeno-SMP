@@ -1,0 +1,14 @@
+filename = 'oceanic_delight-1.0.3-forge-1.20.1.jar'
+name = 'Oceanic Delight'
+side = 'both'
+
+[download]
+hash = '423bcc37405a982141e0d3aa0bbc9e7ad66ae8e524f7795ee49759b1558f781b9335eb8d5387a3e38e4853c3e08e8dcbacb04b8ec74cab9bcccbe100bf0112e0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O1qboAbB/versions/QyxERHfx/oceanic_delight-1.0.3-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'O1qboAbB'
+version = 'QyxERHfx'
+

@@ -1,0 +1,14 @@
+filename = 'delightlib-26.05.18-1.20-forge.jar'
+name = 'Delight Lib'
+side = 'both'
+
+[download]
+hash = '096c39645f7d328b86b07a1dbc17c09efc294ddffdea918e867fb7f52038041534593f1fc58397cf087678178acf771386e5cafe64481c80f3f2a2a943bd37b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rmDY6fYt/versions/1lt5savO/delightlib-26.05.18-1.20-forge.jar'
+
+[update.modrinth]
+mod-id = 'rmDY6fYt'
+version = '1lt5savO'
+

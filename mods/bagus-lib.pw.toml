@@ -1,0 +1,13 @@
+filename = 'bagus_lib-1.20.1-5.6.1.jar'
+name = 'Bagus Lib'
+side = 'both'
+
+[download]
+hash = 'a381b51a7c26551e833c5475c5bfeedb31f97101d5a121b80cc6bee4fd939825ac27c2abe4b4d823e45db152ab33ae2bc2a071987710dfa1fd055dc894a05f2f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/95nSN4Rd/versions/EutpppUn/bagus_lib-1.20.1-5.6.1.jar'
+
+[update.modrinth]
+mod-id = '95nSN4Rd'
+version = 'EutpppUn'

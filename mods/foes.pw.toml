@@ -1,0 +1,14 @@
+filename = 'foes-0.3-forge-1.20.1.jar'
+name = 'Foes!'
+side = 'both'
+
+[download]
+hash = '49b8ffa94f107c7d6751e38dbfbf1c5482231849d886c714331beda104873554fbfc21f37cfd4a4c4c18454d0ea28e562fbbf15c398cb76a92fc1254c085c9ec'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ZobQObv1/versions/zzg7q1N0/foes-0.3-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'ZobQObv1'
+version = 'zzg7q1N0'
+

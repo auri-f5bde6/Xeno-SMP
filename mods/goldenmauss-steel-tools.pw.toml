@@ -1,0 +1,13 @@
+filename = 'goldenmaus_steel_tools-1.0.0-forge-1.20.1.jar'
+name = "GoldenMaus's Steel Tools"
+side = 'both'
+
+[download]
+hash = 'ca6ff3106b6727a8862effcd84b40b0d8677b3076afa7a496074c23f456e9a44cb38ae829acb37916626a83363c6691efc8062d220e8759118107b5b100dc5aa'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/19r6wgSN/versions/QYd0p21q/goldenmaus_steel_tools-1.0.0-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = '19r6wgSN'
+version = 'QYd0p21q'

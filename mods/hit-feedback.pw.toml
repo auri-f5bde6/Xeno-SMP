@@ -1,0 +1,14 @@
+filename = 'HitFeedback-1.20.1-1.1.8-forge.jar'
+name = 'Hit Feedback'
+side = 'both'
+
+[download]
+hash = 'f36fbe367f6de11fe00abaf856692c6b03585188fe9e15300aca91843f4ee2f550c3348bdbcfbac9adbfba7c0b66f075b5c87e2a22fc3df5f770936fa10fdc27'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NKPOiJ04/versions/iUbQYfgb/HitFeedback-1.20.1-1.1.8-forge.jar'
+
+[update.modrinth]
+mod-id = 'NKPOiJ04'
+version = 'iUbQYfgb'
+
