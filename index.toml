@@ -171,6 +171,11 @@ hash = "b8f624557c35a1a61d71884ebde361400c53e4f9c05e2cae6cc0c7f16dea83af"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "3c4772e1f6d3cf3af1d5ed158fbf5d0182d3806ffaf71c7b3a82db9191935fcd"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "610a80b379557ee2a65b473fdf664ea4e6056b1127fa151d63194fe4c6de7fb0"
 metafile = true
@@ -183,6 +188,16 @@ metafile = true
 [[files]]
 file = "mods/betterdays.pw.toml"
 hash = "afb50ae3d68d624cb253de05138f74bc1eb917ab2ea80c54bf60da0b2d6f31d0"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "be6852a0ed028a09fe73fb40dc0bb07fa678b2edba51c02585c3e2319b641aef"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "15fc9ebde948dff31a4ffc87fbbb537a00f8eb14530ccae7043eb01d7a571795"
 metafile = true
 
 [[files]]
@@ -281,6 +296,11 @@ hash = "ef00755d233e15107d94d690eaac65bfb0bc031e4550f9586a63a05e37ba215b"
 metafile = true
 
 [[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "d33cfbb297cb55db010a27d8e8683a5d9d279697f1853b1fb5e5df136b416672"
+metafile = true
+
+[[files]]
 file = "mods/citadel.pw.toml"
 hash = "316f7570d00e7fc6461b161c793d1a23554a87d41ee6b7fb95d53c3bacaafd4d"
 metafile = true
@@ -308,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "63cdb2ba016d2e5159df92d5e69b77e8f3d7b32387345686e2ed318d805b34fc"
+metafile = true
+
+[[files]]
+file = "mods/colorwheel-patcher.pw.toml"
+hash = "b27c6e2c36a30cfa075a33a043bd6a572616300ae819481480364efd6d0a4e55"
 metafile = true
 
 [[files]]
@@ -343,6 +368,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "786d566f7b454a61bc38377b3308ede3d2a63d287f30ea2c6c6d3d531a905f36"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "dcafe7bce5ab829294f45397006b988718d188a19669ca74e3c31435c49bcedf"
 metafile = true
 
 [[files]]
@@ -412,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "4029c573ac27ac9aac39872fbda3829799f56281728516e1f37d3d43bdc1d727"
+hash = "370cebe6bdf7d1897d476d44836640106a8c34ae9bee3ea72276b184a273f1e7"
 metafile = true
 
 [[files]]
@@ -581,6 +611,11 @@ hash = "50bd6425ee6c223c031d1bb322cdcf3d0e7b6ce5e8cc7b87ae4d38c251777271"
 metafile = true
 
 [[files]]
+file = "mods/emoji-type.pw.toml"
+hash = "606608bd7e17f05c077af084616bfe67d98e4e2b2a9e09718bd977ab5db006c6"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "9cde2b6a996fdb0bacfae0f1c525b51fa3c9f39c406f53d08683c701ac748bd2"
 metafile = true
@@ -656,6 +691,11 @@ hash = "b2c2cfdff1cbe800d2be799a81c7356295280b1355b4ef32ac66f38b58f45662"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "7a7a7341acfdcb7fad3461cecdc16a28a2ae04f359e7bd739d481640af669d19"
+metafile = true
+
+[[files]]
 file = "mods/exposure.pw.toml"
 hash = "c3932683dd358721b3ad92a546b2816ec71c24a5937cd3494d8c5564f0c54454"
 metafile = true
@@ -696,6 +736,11 @@ hash = "ada5f5620b37afaaad82e9205263c4c27ab2037cb39e1374948af17b4fc43467"
 metafile = true
 
 [[files]]
+file = "mods/flw-vanillin.pw.toml"
+hash = "59f17a501518066c91d3a09eeb7801912236a730f0667171394c3b0669baf16c"
+metafile = true
+
+[[files]]
 file = "mods/fly-high.pw.toml"
 hash = "d0cca2848f98609f02ab5402aac35f4fd5201bd926ed8a9b32e6e8a9d18290c4"
 metafile = true
@@ -708,6 +753,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "3afd00f8c22da668238d19e9233b53312619cd5b94f14fcb1b63c831754ae9d6"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "311ad29e94682730e353fd86b5e1f49d8c2b3f1a5416ced5ae2fc4939ec9fe22"
 metafile = true
 
 [[files]]
@@ -1076,6 +1126,11 @@ hash = "c13395d67b6b799805310e1af5f300c2a1686698a7a4c87e7349a17ef8ba6e97"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "3b7394ab2f31f3a0e4808ec6f777cd97d26505f9aa99a5fde9888bac42abe7fa"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a0f6e6dc93afb9adea36d0b78bd9005133bc464166360e450fe32ae35a3ec870"
 metafile = true
@@ -1103,6 +1158,11 @@ metafile = true
 [[files]]
 file = "mods/ores-above-diamonds.pw.toml"
 hash = "e0f10d2d0fc33a7e99e462998f3a6ce826cbf27d2f211288bbb5b200c6feddfa"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "2722462560dea2f4d2ffa893fe37d81f74a2889a38f6e2befb1c2efbe1ddfe70"
 metafile = true
 
 [[files]]
@@ -1311,6 +1371,11 @@ hash = "cb4936ed07eb7bd259b658b78fa49fecf62b4f038fa48f6570b04bc1fa351237"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/sparsestructures.pw.toml"
 hash = "16955442090c73ccb8ec0039cad9415a542d19227fb7c1e2e484327fc3830224"
 metafile = true
@@ -1491,6 +1556,11 @@ hash = "7b9c1c307846bf0918a29a404fd4ae3dcb3a7e35ae898ea55eda69c2485f81ba"
 metafile = true
 
 [[files]]
+file = "mods/unusual-fish.pw.toml"
+hash = "b316bfd860c89f93d4e14b9d355ae8eed3235c5c6c87d80227dc3814b090c53b"
+metafile = true
+
+[[files]]
 file = "mods/upgrade-aquatic.pw.toml"
 hash = "2812ec48c329015b50c29fede077c385f25f71ab8c5f5468d0644e84aae5cc16"
 metafile = true
@@ -1533,6 +1603,16 @@ metafile = true
 [[files]]
 file = "mods/woodworks.pw.toml"
 hash = "f2553bd63c256fc0b59a6ea59f4a9decf254bd48bf7a320ee1e23bb610061f60"
+metafile = true
+
+[[files]]
+file = "mods/xeno-early-start.pw.toml"
+hash = "baf3f3fc5d278aa2970598707c2fd53e3c340f902564d119538043c7e2be8e13"
+metafile = true
+
+[[files]]
+file = "mods/xxl-packets.pw.toml"
+hash = "769f87ee25a2477d8f8b912ff9e8fe3d0d6d77b5d511a7fb0ba6a163eca1dc91"
 metafile = true
 
 [[files]]

@@ -1,0 +1,8 @@
+name = "Xeno's Early Start"
+filename = "xeno_early_start-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/auri-f5bde6/Xenonomous-Early-Start/releases/download/testing-v1/xeno_early_start-1.0.0.jar"
+hash-format = "sha256"
+hash = "e5825ea4b08645be3aab3b334b2fe930a72497f7489324e9efe7373894eb67df"

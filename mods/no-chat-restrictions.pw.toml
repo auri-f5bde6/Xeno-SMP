@@ -1,0 +1,13 @@
+filename = 'NoChatRestrictions-Forge-MC1.20.1-v1.0.0.jar'
+name = 'No Chat Restrictions'
+side = 'client'
+
+[download]
+hash = 'bd0b8dd69a889c7d8153a44b56d5f997dd3a98728b1b270a7ad738d23f4ceffb095212cdf0ceb711b0ae3ad5735c219738c9797f43c8357653384b5365f688d0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/z440MEwJ/versions/nfAbW8d8/NoChatRestrictions-Forge-MC1.20.1-v1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'z440MEwJ'
+version = 'nfAbW8d8'
