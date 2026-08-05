@@ -1,13 +1,13 @@
-filename = 'quantified api-omni-2.1.0.jar'
+filename = 'quantified api-omni-2.2.0.jar'
 name = 'Quantified API'
 side = 'both'
 
 [download]
-hash = 'f9de01f3bbf344dd874e1154d057fd8c985f9e886feba4629350a6ded98cdb2b9ce039b3c83d7e05ce82ebcd4358afcb932b42c0fa278fc813884f3ebabbba16'
+hash = '4f3c1c8c5cd1f5748f1c62466217ce067e07d61b022e9bf58ea48229842bca1828a077a932b94aeedc17fae99331e5baded42ff2c4d98b290df656bb8664828b'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/z4G4OIuV/versions/b1gG8jMJ/quantified api-omni-2.1.0.jar'
+url = 'https://cdn.modrinth.com/data/z4G4OIuV/versions/xuxlRph3/quantified api-omni-2.2.0.jar'
 
 [update.modrinth]
 mod-id = 'z4G4OIuV'
-version = 'b1gG8jMJ'
+version = 'xuxlRph3'

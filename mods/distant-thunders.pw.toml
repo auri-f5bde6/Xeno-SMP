@@ -3,12 +3,11 @@ name = 'Distant thunders'
 side = 'client'
 
 [download]
-hash = '9796c661d5e6fde933e0f5de7a053a2c0a64b5887babac9476030f2f25cfc692e39438b41c69dc7a76ca0423b333d98b208db634f7a00e16d42ddd930df9ea44'
+hash = '35b60fa2c0f178352a0523be141347f29f08c57214e6a28fe3ebd52c8605daa41a49cb3c813a455812110409c1e2c9c161df5d0e58dce10e5fd5860a4ea0b3d0'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/cY4e8fDt/versions/NSmlAOqA/distantthunders-mc1.20.1-forge-1.1.0.jar'
+url = 'https://cdn.modrinth.com/data/cY4e8fDt/versions/zxcEXGdt/distantthunders-mc1.20.1-forge-1.1.0.jar'
 
 [update.modrinth]
 mod-id = 'cY4e8fDt'
-version = 'NSmlAOqA'
-
+version = 'zxcEXGdt'

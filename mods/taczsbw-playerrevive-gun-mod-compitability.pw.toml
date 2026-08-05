@@ -1,13 +1,13 @@
-filename = 'playerrevive_compat-1.0.3-f4fdba6.jar'
+filename = 'playerrevive_compat-1.0.2-12c699b.jar'
 name = '[TaCZ/SBW] PlayerRevive gun mod compitability'
 side = 'both'
 
 [download]
-hash = '9593235053cead6a22e8850ade419d56f5c0df6be9065dbf9ee20370e282fb842d036f2572bf0b22814d64ced244c0b16a0007bc1d631025ef0ff0ebdaa2b6e9'
+hash = '71d5f8c0b3afbae51a3219786e9a0811ac4a0b0a0d61328aa91dccc6615d120b3bc08da4c9a57359a397b4ffbc3a69f6ca566f0ad392979783ef81e2278cb379'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/2ehC7vF4/versions/EDMqRnfK/playerrevive_compat-1.0.3-f4fdba6.jar'
+url = 'https://cdn.modrinth.com/data/2ehC7vF4/versions/KPgfEXO6/playerrevive_compat-1.0.2-12c699b.jar'
 
 [update.modrinth]
 mod-id = '2ehC7vF4'
-version = 'EDMqRnfK'
+version = 'KPgfEXO6'
