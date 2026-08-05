@@ -1,0 +1,12 @@
+filename = 'spelunkeryplus-1.7.1.jar'
+name = 'Spelunkery+'
+side = 'both'
+
+[download]
+hash = 'a06a97dfeaa565cfd2849f277592d739e0617277'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 7651093
+project-id = 1307013

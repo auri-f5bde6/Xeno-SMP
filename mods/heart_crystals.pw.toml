@@ -1,0 +1,13 @@
+filename = 'heart_crystals-1.20.1-2.1.1.jar'
+name = 'Heart Crystals'
+side = 'both'
+
+[download]
+hash = '36335060cb92dc8557e052204142fafececed7126240e6dbfa6102f8cb314253a9fee9d4b563b19a9e282f7de052b7163369c9283fbe818a465d913957ac2f53'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/4RfZdduG/versions/fRQd9pky/heart_crystals-1.20.1-2.1.1.jar'
+
+[update.modrinth]
+mod-id = '4RfZdduG'
+version = 'fRQd9pky'

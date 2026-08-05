@@ -1,0 +1,13 @@
+filename = 'cave_dweller_delightTF-1.7.0.jar'
+name = 'Cave Dweller Delight'
+side = 'both'
+
+[download]
+hash = '66658c7ee8fd75a764513f044392fd52136b2874f1b0dba6aff4320e9ac7dd14ff47711b985b3eec0f7bf264c5efacb67f921e9c3dd96d4264eeab62942dbd76'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CAag2j51/versions/1VcZVDT6/cave_dweller_delightTF-1.7.0.jar'
+
+[update.modrinth]
+mod-id = 'CAag2j51'
+version = '1VcZVDT6'

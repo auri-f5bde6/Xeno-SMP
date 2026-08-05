@@ -1,0 +1,14 @@
+filename = 'cave_dweller_overhaul-1.20.1-1.2.0.jar'
+name = 'Cave Dweller Overhaul'
+side = 'both'
+
+[download]
+hash = '69caff544415cc4a5383d4e861b71496415392ba2d627f802bc305ad7099f3e50cccad868b518877d6a344a458da12d67722d7ec698d6ee6b512ac5d6891261f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/AJGIPnLB/versions/N90gtJTw/cave_dweller_overhaul-1.20.1-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'AJGIPnLB'
+version = 'N90gtJTw'
+

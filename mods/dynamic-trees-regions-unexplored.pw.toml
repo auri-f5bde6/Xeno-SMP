@@ -1,0 +1,12 @@
+filename = 'DynamicTreesRU-1.20.1-1.0.1.jar'
+name = 'Dynamic Trees - Regions Unexplored'
+side = 'both'
+
+[download]
+hash = '083b5bfd85924e9e7aaf65535d776dab3bebc128'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6658693
+project-id = 1157051
