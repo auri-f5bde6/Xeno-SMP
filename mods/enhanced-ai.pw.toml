@@ -1,0 +1,13 @@
+filename = 'enhancedai-3.3.7.3.jar'
+name = 'Enhanced AI'
+side = 'both'
+
+[download]
+hash = 'ac20701262830d38f1e0624ed18f83b28aef4d785f5e27373894142bbc536dde23b9fe1d101f54d4c83c113f2fd91cf61ba152635c1487d6a1c11342164fd108'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TDdoftI1/versions/JTMTbZMb/enhancedai-3.3.7.3.jar'
+
+[update.modrinth]
+mod-id = 'TDdoftI1'
+version = 'JTMTbZMb'

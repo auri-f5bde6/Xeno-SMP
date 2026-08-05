@@ -1,0 +1,14 @@
+filename = 'essentialapocalypse-1.0-1.20.1.jar'
+name = 'Essential Apocalypse'
+side = 'both'
+
+[download]
+hash = '43db31b1108bc6d665ee06b4f833de7437df1f7dff8841c0f275517c3007b19394505a2c4de7e1a8985c32126626463176bb3cedac19a7d7719fc9913f41a41e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/YnrRePkW/versions/dK9WflpG/essentialapocalypse-1.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'YnrRePkW'
+version = 'dK9WflpG'
+

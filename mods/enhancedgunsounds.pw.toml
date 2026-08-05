@@ -1,0 +1,12 @@
+filename = 'enhancedgunsounds-2.4.jar'
+name = 'enhancedgunsounds'
+side = 'client'
+
+[download]
+hash = '4f293f0447e5eebc060a353895ee46e28aa07697'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 6867338
+project-id = 1323528

@@ -1,0 +1,12 @@
+filename = 'cave_dweller_delightTF-1.7.0.jar'
+name = 'Better Cave Dweller Delight'
+side = 'both'
+
+[download]
+hash = '0c969138ec0612755e1f89008237183ab2c66612'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+
+[update.curseforge]
+file-id = 8440716
+project-id = 1574691
