@@ -1,13 +1,13 @@
-filename = 'simpleblood-1.20.1-1.0.3.jar'
+filename = 'simpleblood-1.20.1-1.0.2.jar'
 name = "Iron's Simple Blood"
 side = 'both'
 
 [download]
-hash = 'e8337016617c5bc8ac32d876452d2cfb38fd43b0bf066444ddbd8e6176ee73eabf069b6a13fc331d91d576b23c9ae506079aab4ad1a6e445ee3815368cb318bc'
+hash = '541f8e4ba10067ef8473e98188b6884f113d908643d2e8172a81eb28b0e4880c13538e8700b4af456baaa058878778992054ffff5d39102a9c4ed64b0c3eff14'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/l7Ddlxg5/versions/aY1RZCrL/simpleblood-1.20.1-1.0.3.jar'
+url = 'https://cdn.modrinth.com/data/l7Ddlxg5/versions/mQI9WhCR/simpleblood-1.20.1-1.0.2.jar'
 
 [update.modrinth]
 mod-id = 'l7Ddlxg5'
-version = 'aY1RZCrL'
+version = 'mQI9WhCR'

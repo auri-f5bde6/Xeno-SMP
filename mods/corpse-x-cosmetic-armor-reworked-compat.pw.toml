@@ -1,6 +1,6 @@
 filename = 'cosmeticcorpsecompat-1.20.1-Forge-4.0.1.jar'
 name = 'Corpse x Cosmetic Armor Reworked Compat'
-side = "both"
+side = 'both'
 
 [download]
 hash = 'b2728cdcd1a205346a93641bcf1c0312b2064f10f981cb3408a0839274219a2dae2e5eb345539961537efe14c42020a678ac563d3ff4e579da4c2066a9702480'

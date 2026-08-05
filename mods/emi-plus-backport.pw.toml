@@ -1,5 +1,5 @@
 filename = 'emixx-forge-1.5.1.jar'
-name = 'Reliable EMI'
+name = 'EMI++ Forked'
 side = 'client'
 
 [download]
@@ -11,4 +11,3 @@ url = 'https://cdn.modrinth.com/data/N9WucjHL/versions/IjNM5KeY/emixx-forge-1.5.
 [update.modrinth]
 mod-id = 'N9WucjHL'
 version = 'IjNM5KeY'
-

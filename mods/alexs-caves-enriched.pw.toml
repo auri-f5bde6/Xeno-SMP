@@ -1,13 +1,13 @@
+filename = 'alexscavesenriched-1.0.6.jar'
 name = "Alex's Caves: Enriched"
-filename = "alexscavesenriched-1.0.6.jar"
-side = "both"
+side = 'both'
 
 [download]
-url = "https://cdn.modrinth.com/data/saFIe8ei/versions/8f4y3kTV/alexscavesenriched-1.0.6.jar"
-hash-format = "sha512"
-hash = "d37ea1df6b9f93ff0411baec6c0283b30f1514d36209d57edff27502158663fa50fa78433806166bdc95ff9f0181006e75bd1c88dc6ee8805007a2ebf982a863"
+hash = 'd37ea1df6b9f93ff0411baec6c0283b30f1514d36209d57edff27502158663fa50fa78433806166bdc95ff9f0181006e75bd1c88dc6ee8805007a2ebf982a863'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/saFIe8ei/versions/8f4y3kTV/alexscavesenriched-1.0.6.jar'
 
-[update]
 [update.modrinth]
-mod-id = "saFIe8ei"
-version = "8f4y3kTV"
+mod-id = 'saFIe8ei'
+version = '8f4y3kTV'

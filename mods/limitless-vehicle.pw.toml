@@ -1,13 +1,13 @@
-filename = 'ywzj_vehicle-1.20.1-0.5.8.jar'
+filename = 'ywzj_vehicle-1.20.1-0.5.6-all.jar'
 name = 'Limitless Vehicle'
 side = 'both'
 
 [download]
-hash = '002276d94d6387abf60aecabd828af495fcf7b312ca5b05611ce17b2a337fb8b2b8819a4ebbd36081ef36c2e6ddbf04aaa85f4e1fd069544b4d13c1fcdc2d047'
+hash = 'c3f22b572b50d6bdcfebbc764b58e5e9b4f012b0b04530ec1dd50d3bcd04340e7790e34373a007761fc47e8579f5f9a6c72842a263da0445891d746c33029ae6'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/iNLY53RY/versions/pi3rXbGu/ywzj_vehicle-1.20.1-0.5.8.jar'
+url = 'https://cdn.modrinth.com/data/iNLY53RY/versions/JztdDpdu/ywzj_vehicle-1.20.1-0.5.6-all.jar'
 
 [update.modrinth]
 mod-id = 'iNLY53RY'
-version = 'pi3rXbGu'
+version = 'JztdDpdu'

@@ -1,13 +1,13 @@
-filename = 'visuality-forge-2.2.0.jar'
+filename = 'visuality-forge-2.0.2.jar'
 name = 'Visuality: Reforged'
 side = 'client'
 
 [download]
-hash = 'dc38f799560ee952e5c3606681879a5f08a76e7bfdaddb3ec7d6e6ce0e77bc4aaa7f4d3161d6d06bc7ce9cbec8587facfe5a9bfaaba2146b5afd9b6e33f913e0'
+hash = 'b9e980655580abc4cd60dddc3ddde4650768086280417c4ebd66c4487919a4b905ea246f544ecfb126999fdf356209b2c8c2a87f7c3080fc6c272892d47f72f8'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/z13R7Et1/versions/XuoohJcp/visuality-forge-2.2.0.jar'
+url = 'https://cdn.modrinth.com/data/z13R7Et1/versions/MyhpSYT4/visuality-forge-2.0.2.jar'
 
 [update.modrinth]
 mod-id = 'z13R7Et1'
-version = 'XuoohJcp'
+version = 'MyhpSYT4'
