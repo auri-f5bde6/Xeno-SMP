@@ -1,6 +1,6 @@
 filename = 'cavespiderspawn-1.20.1-1.2.jar'
 name = 'Cave Spider Spawn'
-side = 'server'
+side = "both"
 
 [download]
 hash = 'eaa2c6cc30fc56f8e5c5f19df50eb40ef3b8809b7fb00e02fb772f830b39846362ff613c0867aa2dce940d4f31b8669bee6fac9e334b03b737a10b67946f6ab6'

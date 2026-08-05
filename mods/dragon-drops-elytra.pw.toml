@@ -1,6 +1,6 @@
 filename = 'dragondropselytra-1.20.1-3.6.jar'
 name = 'Dragon Drops Elytra'
-side = 'server'
+side = "both"
 
 [download]
 hash = '387c73456bc7beed6d299d7b78a1322e96868b99ce4c1e08aef6b892d29900a31a5bd09d4e361ff8739ba3c4d4ec1bda35f043d2ca6a7cc88eabd112ee1a521f'

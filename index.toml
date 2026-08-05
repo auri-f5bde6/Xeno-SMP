@@ -872,7 +872,7 @@ metafile = true
 
 [[files]]
 file = "mods/healing-soup.pw.toml"
-hash = "1b68a280b79ef45889a8e548bdcc65594e8ab34dc498107d21b4bb78adb49627"
+hash = "f5d21dff11728efef107219e9c7bea96e86dc6eeacc27af7b5f432fea8ccbfd3"
 metafile = true
 
 [[files]]

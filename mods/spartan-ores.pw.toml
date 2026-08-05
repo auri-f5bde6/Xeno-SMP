@@ -1,6 +1,6 @@
 filename = 'spartanores-1.0.1.jar'
 name = 'Spartan Ores'
-side = 'server'
+side = "both"
 
 [download]
 hash = '907148b6f2d2eba3a44c28232f3cf16fe7d47e3b'

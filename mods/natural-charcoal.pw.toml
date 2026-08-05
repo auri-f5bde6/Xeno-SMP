@@ -1,6 +1,6 @@
 filename = 'naturalcharcoal-1.20.1-1.1.jar'
 name = 'Natural Charcoal'
-side = 'server'
+side = "both"
 
 [download]
 hash = '4d8802d7cd435290314e4618e585d56c7e3de89d5b1bd9cf4e4a6c2fcf7683d4587bf3c678d603c96612ef39ecaf4e414afbdfffc63a4408e2abd5ec999ef070'

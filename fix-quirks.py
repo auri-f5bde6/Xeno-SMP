@@ -33,7 +33,7 @@ def for_each_mod(func: Callable[[str, Container, str], None],
 def fix(filename, metadata, key):
     if key.startswith("x-prismlauncher-"):
         metadata.pop(key)
-    elif key == "side" and metadata[key] not in ["client", "server", "both"]:
+    elif key == "side" and metadata[key] not in ["client", "both"]: # server sided mod doesnt get added to mrpack ...
         print(f"WARNING: {filename} have a invalid side of '{metadata[key]}', falling back to both")
         metadata[key] = "both"  # default to both
     elif key == "url" and isinstance(metadata[key], str) and metadata[key].strip() == "":

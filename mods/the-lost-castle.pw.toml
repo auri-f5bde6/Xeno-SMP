@@ -1,6 +1,6 @@
 filename = 'tlc_forge-1.0.3-R-1.20.X.jar'
 name = 'The Lost Castle'
-side = 'server'
+side = "both"
 
 [download]
 hash = '8d51bd2bbff1e14e6e88bb563c6a00e57d864bebb89a006d86825b266e6a1416fad99e848f44d90d8f770d7bfb4677f36e9199624d7e955be353f8822218dbd2'

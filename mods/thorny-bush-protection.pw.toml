@@ -1,6 +1,6 @@
 filename = 'thornybushprotection-1.20.1-1.5.jar'
 name = 'Thorny Bush Protection'
-side = 'server'
+side = "both"
 
 [download]
 hash = 'ce1c2000b9a97b1f80d94d31d2e7e9e017645905ef8ed7646ddfb6011593617dcd1f1f592c0bb2e49534a0be5198effcd5aa1bed6dde84c8042586297c2fe947'

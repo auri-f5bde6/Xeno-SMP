@@ -1,6 +1,6 @@
 filename = 'netherportalfix-forge-1.20-13.0.1.jar'
 name = 'NetherPortalFix'
-side = 'server'
+side = "both"
 
 [download]
 hash = '622d181918418c9bd9c919d19e9f5b0cc8e70c18b7c9be79353ea96481c40264cd986367630d9228867a8fbe94a2b9a2fd5b1ae3ba9edcb8edd12185a8366e3a'

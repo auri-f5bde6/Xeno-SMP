@@ -1,6 +1,6 @@
 filename = 'RUExpansion-1.0.1+1.20.1.jar'
 name = 'Regions Unexplored: Expansion'
-side = 'server'
+side = "both"
 
 [download]
 hash = '2287ec90ebdfd6288396ab5f61099f35fde08788959876100ccd25cd671bd6e96cb5a5031336f181366fa375d94c58bf428ab09c93a31c18869233e8c7d682c9'
